@@ -1,0 +1,4 @@
+@Newlife16 
+autor: cristian david lopez guarin
+se utilizo html y css para realizar una practica pequeña de consultas css
+version 0.001
